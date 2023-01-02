@@ -1,0 +1,108 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 306-668-111
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 306-668-111
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: sfg
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:46] "GET /search?s=sfg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: картинка
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:56] "GET /search?s=картинка HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:56] "[36mGET /uploads/images/ArcheAge_sample.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:24:56] "[36mGET /uploads/images/Warface_sample.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\PyCharm\\lesson12_project_source_v3\\loader\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 306-668-111
+INFO:werkzeug: * Detected change in 'D:\\PyCharm\\lesson12_project_source_v3\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 306-668-111
+INFO:werkzeug: * Detected change in 'D:\\PyCharm\\lesson12_project_source_v3\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 306-668-111
+INFO:werkzeug: * Detected change in 'D:\\PyCharm\\lesson12_project_source_v3\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 306-668-111
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:49] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:49] "[33mGET /Неверный%20тип%20файла HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:57] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:57] "[36mGET /uploads/images/ArcheAge_sample.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:57] "[36mGET /uploads/images/Warface_sample.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:57] "[36mGET /uploads/images/photo-1494952200529-3ceb822a75e2.avif HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:57] "[33mGET /Неверный%20тип%20файла HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:28:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: dfg
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:29:01] "GET /search?s=dfg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:29:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:29:01] "[33mGET /Неверный%20тип%20файла HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:29:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:29:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:29:59] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:30:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:30:15] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:30:15] "[33mGET /Неверный%20тип%20файла HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:30:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:30:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:30:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\PyCharm\\lesson12_project_source_v3\\main\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 306-668-111
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:49] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:49] "[33mGET /Неверный%20тип%20файла HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:49] "[36mGET /uploads/images/photo-1494952200529-3ceb822a75e2.avif HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:49] "[36mGET /uploads/images/Warface_sample.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:49] "[36mGET /uploads/images/ArcheAge_sample.jpg HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:56] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:49:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:00] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:18] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:19] "GET /uploads/images/Warface_sample.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:21] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: новая
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:27] "GET /search?s=новая HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:27] "[36mGET /uploads/images/Warface_sample.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Jan/2023 19:50:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
